@@ -191,11 +191,11 @@ The internship provided hands-on experience in converting raw data into meaningf
 
 # 📬 Contact
 
-**Name:** Ajay Nath
+**Name:**Joshi Rasagna
 
-**LinkedIn:** Add Your LinkedIn Profile Link
+**LinkedIn:**www.linkedin.com/in/joshi-rasagna
 
-**GitHub:** Add Your GitHub Profile Link
+**GitHub:**https://github.com/joshirasagna
 
 ---
 
