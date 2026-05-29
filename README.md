@@ -87,8 +87,10 @@ Prepare and clean the raw dataset for analysis.
 - Validated data quality
 - Prepared analysis-ready dataset
 
-### Key Outcome
+### Key Outcome 
 Created a structured and reliable dataset suitable for further analysis.
+Task-1 Respiratory 
+https://github.com/joshirasagna/Udemy-course-Data-Wrangling
 
 ---
 
@@ -106,6 +108,8 @@ Explore the dataset to identify patterns, trends, and relationships.
 
 ### Key Outcome
 Generated actionable insights regarding course performance and learner behavior.
+Task-2 Respiratory 
+https://github.com/joshirasagna/Udemy-course-EDA
 
 ---
 
@@ -123,6 +127,8 @@ Develop an interactive dashboard to visualize business insights.
 
 ### Key Outcome
 Created a user-friendly dashboard that supports data-driven decision-making.
+Task-3 Respiratory 
+https://github.com/joshirasagna/Udemy-course-Deep-data-analysis-Interactive-dashboard
 
 ---
 
@@ -140,6 +146,8 @@ Transform analytical findings into a business narrative and validate insights st
 
 ### Key Outcome
 Validated analytical findings and communicated insights effectively through a professional presentation.
+Task-4 Respiratory
+https://github.com/joshirasagna/Udemy-course-Data-stroy-telling-and-statistical-validation
 
 ---
 
